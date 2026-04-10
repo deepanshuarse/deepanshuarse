@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Deepanshu Arse
 
-🎓 Just finished 12th grade and diving into the world of coding!
+diving into the world of coding!
 
 ## 🚀 What I'm Learning
 - 💻 Web Development (HTML, CSS, JavaScript)
@@ -8,7 +8,7 @@
 - ⚡ C++
 
 ## 🌱 My Journey
-I'm at the beginning of my coding journey — learning every day,
+learning every day,
 making mistakes, and growing. This GitHub is where I'll document
 my progress, projects, and experiments as I go.
 
