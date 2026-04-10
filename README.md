@@ -1,12 +1,7 @@
-## Hi there 👋, I’m Deepanshu Arse
-diving into the world of coding!
+# 👋 Hi there, I'm Deepanshu Arse
 
-<!--
-**deepanshuarse/deepanshuarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Just finished 12th grade and diving into the world of coding!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 ## 🚀 What I'm Learning
 - 💻 Web Development (HTML, CSS, JavaScript)
 - 🧠 Data Structures & Algorithms
@@ -21,12 +16,6 @@ my progress, projects, and experiments as I go.
 - Build real-world web projects
 - Get strong at DSA and problem solving
 - Keep showing up consistently
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
 
 ## 📫 Let's Connect
 Feel free to follow along as I grow! 🌟
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
