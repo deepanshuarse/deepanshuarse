@@ -4,7 +4,6 @@ diving into the world of coding!
 
 ## 🚀 What I'm Learning
 - 💻 Web Development (HTML, CSS, JavaScript)
-- 🧠 Data Structures & Algorithms
 - ⚡ C++
 
 ## 🌱 My Journey
