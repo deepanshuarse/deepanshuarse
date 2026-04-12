@@ -17,4 +17,4 @@ my progress, projects, and experiments as I go.
 - Keep showing up consistently
 
 ## 📫 Let's Connect
-Feel free to follow along as I grow! 🌟
+Feel free to follow along as I grow!
