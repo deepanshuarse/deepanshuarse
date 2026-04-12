@@ -3,7 +3,7 @@
 diving into the world of coding!
 
 ## 🚀 What I'm Learning
-- 💻 Web Development (HTML, CSS, JavaScript)
+- 💻 Web Development 
 - ⚡ C++
 
 ## 🌱 My Journey
