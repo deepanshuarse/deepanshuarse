@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Deepanshu Arse
 
-Passionate beginner exploring the world of coding
+exploring the world of coding
 Starting from scratch and building my journey step by step.
 
 ## 🚀 What I'm Learning
