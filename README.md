@@ -17,6 +17,9 @@ my progress, projects, and experiments as I go.
 - Get strong at DSA and problem solving
 - Keep showing up consistently
 
+## 📅 Daily Progress
+- Learning something new every day, even if it's small.
+  
 ## 📫 Let's Connect
-Feel free to follow along as I grow!
+- Feel free to follow along as I grow!
 
