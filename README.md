@@ -26,8 +26,6 @@ my progress, projects, and experiments as I go.
 - Build real-world web projects
 - Get strong at DSA and problem solving
 - Keep showing up consistently
-
-## 📅 Daily Progress
 - Learning something new every day, even if it's small.
   
 ## 📫 Let's Connect
