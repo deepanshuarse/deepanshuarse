@@ -3,8 +3,9 @@
 diving into the world of coding!
 
 ## 🚀 What I'm Learning
-- 💻 Web Development 
-- ⚡ C++
+- Strengthening my basics in HTML, CSS, and C++
+- Understanding core programming concepts
+- Getting ready to build my first projects
 
 ## 🌱 My Journey
 learning every day,
