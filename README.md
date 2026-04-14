@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Beginner+Programmer;Learning+Every+Day;Future+Developer🚀)
+
 # 👋 Hi there, I'm Deepanshu Arse
 
 Passionate beginner exploring the world of coding
@@ -9,12 +9,13 @@ Starting from scratch and building my journey step by step.
 - Understanding core programming concepts
 - Getting ready to build my first projects
 
-- ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4dabf7?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd43b?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-5c7cfa?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-51cf66?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🌱 My Journey
 learning every day,
