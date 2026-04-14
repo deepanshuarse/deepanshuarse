@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Beginner+Programmer;Learning+Every+Day;Future+Developer🚀)
 # 👋 Hi there, I'm Deepanshu Arse
 
 Passionate beginner exploring the world of coding
