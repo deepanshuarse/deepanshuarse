@@ -8,6 +8,13 @@ Starting from scratch and building my journey step by step.
 - Understanding core programming concepts
 - Getting ready to build my first projects
 
+- ## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
+
 ## 🌱 My Journey
 learning every day,
 making mistakes, and growing. This GitHub is where I'll document
