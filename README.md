@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Deepanshu Arse
 
-diving into the world of coding!
+Passionate beginner exploring the world of coding
+Starting from scratch and building my journey step by step.
 
 ## 🚀 What I'm Learning
 - Strengthening my basics in HTML, CSS, and C++
