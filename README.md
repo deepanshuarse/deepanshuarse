@@ -4,10 +4,6 @@ exploring the world of coding Starting from scratch and building my journey step
 # 🚀 What I'm Learning
 Strengthening my basics in HTML, CSS, and C++<br>Understanding core programming concepts<br>Getting ready to build my first projects
 
-# 🎯 My Goals
-Build real-world web projects<br>Get strong at DSA and problem solving<br>Keep showing up consistently<br>Learning something new every day, even if it's small.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-arse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepanshuarse298@gmail.com) 
 
