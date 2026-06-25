@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Deepanshu Arse<br>exploring the world of coding Starting from scratch and building my journey step by step.<br><br>🚀 What I'm Learning<br>Strengthening my basics in HTML, CSS, and C++<br>Understanding core programming concepts<br>Getting ready to build my first projects<br><br>🎯 My Goals<br>Build real-world web projects<br>Get strong at DSA and problem solving<br>Keep showing up consistently<br>Learning something new every day, even if it's small.
+# 💫 Hi there, I'm Deepanshu Arse
+exploring the world of coding Starting from scratch and building my journey step by step.<br><br>🚀 What I'm Learning<br>Strengthening my basics in HTML, CSS, and C++<br>Understanding core programming concepts<br>Getting ready to build my first projects<br><br>🎯 My Goals<br>Build real-world web projects<br>Get strong at DSA and problem solving<br>Keep showing up consistently<br>Learning something new every day, even if it's small.
 
 
 ## 🌐 Socials:
