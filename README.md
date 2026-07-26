@@ -20,8 +20,21 @@ Getting ready to build my first projects
   </a>
 </div>
 
-# 💻 Tech Stack:
-<h2 align="center">📊 GitHub Streak Stats</h2>
+## 💻 Tech Stack:
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
+
+## 📊 GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
