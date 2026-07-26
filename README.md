@@ -28,13 +28,14 @@ Getting ready to build my first projects
 
 ## 📊 GitHub Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/deepanshuarse/deepanshuarse/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=deepanshuarse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ## 🌐 Socials:
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/deepanshu-arse?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
