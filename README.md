@@ -33,10 +33,28 @@ Getting ready to build my first projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deepanshuarse&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deepanshuarse&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepanshuarse&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=deepanshuarse&theme=github-dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuarse&layout=compact&theme=github_dark&hide_border=true&card_width=495"
+    height="170"
+  />
+</p>
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
