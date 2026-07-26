@@ -14,7 +14,11 @@ Getting ready to build my first projects
 
 ## 🌐 Socials:
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-arse) 
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-arse?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 <div data-importer="techs" align="center">
