@@ -3,15 +3,18 @@
 </div>
 
 <h1 data-importer="text" align="center">💫 Hi there, I'm Deepanshu Arse</h1>
-exploring the world of coding Starting from scratch and building my journey step by step.
 
-<h2 data-importer="text" align="left">🚀 What I'm Learning</h2>
+Just a curious mind turning ideas into code and learning something new every day.
+
+## 🚀 What I'm Learning:
+
 Strengthening my basics in HTML, CSS, and C++
 Understanding core programming concepts
 Getting ready to build my first projects
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikydeepanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-arse) 
+
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-arse) 
 
 # 💻 Tech Stack:
 <div data-importer="techs" align="center">
