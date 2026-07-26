@@ -21,39 +21,10 @@ Getting ready to build my first projects
 </div>
 
 # 💻 Tech Stack:
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Streak Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=deepanshuarse&theme=github-dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuarse&layout=compact&theme=github_dark&hide_border=true&card_width=495"
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <div data-importer="border">
