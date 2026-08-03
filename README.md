@@ -52,12 +52,6 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 🔗 Connect with Me
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/deepanshu-arse?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
