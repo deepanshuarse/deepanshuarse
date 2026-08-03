@@ -1,44 +1,76 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%F0%9F%92%AB%20Hi%20there%2C%20I'm%20Deepanshu%20Arse&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<h1 data-importer="text" align="center">💫 Hi there, I'm Deepanshu Arse</h1>
-
-Just a curious mind turning ideas into code and learning something new every day.
-
-## 🚀 What I'm Learning:
-
-Strengthening my basics in HTML, CSS, and C++ <br>
-Understanding core programming concepts <br>
-Getting ready to build my first projects 
-
-## 💻 Tech Stack:
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deepanshuarse&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deepanshuarse&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepanshuarse&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🌐 Socials:
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-arse?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=deepanshuarse">
+    <img src="https://komarev.com/ghpvc/?username=deepanshuarse&label=Profile%20views&color=00FFFF&style=flat-square" alt="deepanshuarse's profile views" />
   </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Just a curious mind turning ideas into code and learning something new every day.
+
+
+## 🧠 My Focus Areas
+- Strengthening my basics in HTML, CSS, and C++
+- Understanding core programming concepts
+- Getting ready to build my first projects
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/deepanshuarse">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deepanshuarse&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="deepanshuarse's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=shades-of-purple&radius=10" alt="deepanshuarse's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepanshuarse">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepanshuarse&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="deepanshu-arse"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="💫 Hi there, I'm Deepanshu Arse's LinkedIn"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<div data-importer="border" align="left">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
