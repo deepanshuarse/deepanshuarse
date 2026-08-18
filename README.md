@@ -13,13 +13,12 @@
 
 
 ## 📊 GitHub Dashboard
-
+<div align="center">
 <!-- Contribution Streak -->
 <img
   height="180"
   src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true"
 />
-
 </div>
 <div align="center">
 
