@@ -18,7 +18,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deepanshuarse&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="deepanshuarse's GitHub Stats" />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshuarse&" alt="deepanshuarse" /></p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=shades-of-purple&radius=10" alt="deepanshuarse's Activity Graph" />
 </p>
