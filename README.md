@@ -51,8 +51,8 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="70" />
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=obsidian" width="64" height="64" />
+    <td align="center" width="110"> 
+      <img src="https://skillicons.dev/icons?i=obsidian" width="64" height="64" /> 
     </td>
   </tr>
 </table>
