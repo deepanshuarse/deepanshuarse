@@ -12,21 +12,29 @@
 - Getting ready to build my first projects
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/deepanshuarse">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deepanshuarse&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="deepanshuarse's GitHub Stats" />
-  </a>
-</p>
+## 📊 GitHub Dashboard
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<!-- Card 1 — GitHub Stats -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<!-- Card 2 — Top Languages -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuarse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+<!-- Card 3 — Contribution Streak -->
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=shades-of-purple&radius=10" alt="deepanshuarse's Activity Graph" />
-</p>
-
 
 ## Skills & Stacks
 
