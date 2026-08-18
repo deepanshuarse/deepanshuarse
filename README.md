@@ -14,24 +14,18 @@
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
-
-<!-- Card 1 — GitHub Stats -->
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<!-- Card 2 — Top Languages -->
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuarse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-<!-- Card 3 — Contribution Streak -->
+<!-- Contribution Streak -->
 <img
   height="180"
   src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  alt="Deepanshu's GitHub Contribution Graph"
 />
 
 </div>
