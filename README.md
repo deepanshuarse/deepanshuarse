@@ -13,21 +13,20 @@
 
 
 ## 📊 GitHub Dashboard
-<div align="center">
-<!-- Contribution Streak -->
-<img
-  height="180"
-  src="https://streak-stats.demolab.com?user=deepanshuarse&theme=tokyonight&hide_border=true"
-/>
-</div>
-<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  alt="Deepanshu's GitHub Contribution Graph"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=github-compact&hide_border=true"
+    alt="Deepanshu's GitHub Activity Graph"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=deepanshuarse&theme=github-dark-blue&hide_border=true"
+    alt="Deepanshu's GitHub Streak"
+  />
+</p>
 
 ## Skills & Stacks
 
