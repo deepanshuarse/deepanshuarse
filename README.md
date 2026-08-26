@@ -12,17 +12,6 @@
 - Getting ready to build my first projects
 
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=github-compact&hide_border=true"
-    alt="Deepanshu's GitHub Activity Graph"
-  />
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=neon" alt="GitHub Streak" /></a>
-
 ## Skills & Stacks
 
 <table>
