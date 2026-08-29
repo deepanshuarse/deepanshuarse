@@ -8,8 +8,7 @@
 
 ## 🧠 My Focus Areas
 - Strengthening my basics in HTML, CSS, and JS
-- Understanding core programming concepts
-- Getting ready to build my first projects
+- Understanding core programming concepts 
 
 
 ## Skills & Stacks
