@@ -3,12 +3,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🫠 About Me
-'''
+''
 👋 Hey, I’m a developer who’s deeply interested in coding, web development, and building things on the web.
 
 I enjoy going beyond just making something “work” — I like understanding how things work under the hood, experimenting with ideas, solving problems, and continuously improving my skills.
 
-'''
+''
 
 ## 🧠 My Focus Areas
 - Web Development • Programming • Problem Solving • Building Projects • Learning & Experimentation
