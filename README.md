@@ -17,12 +17,6 @@ I enjoy going beyond just making something “work” — I like understanding h
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=radical&hide_border=true&background=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&ring_color=58A6FF" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=deepanshuarse&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuarse&layout=compact&theme=radical&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
-</p>
 
 <table>
   <tr>
