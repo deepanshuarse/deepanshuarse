@@ -38,6 +38,9 @@ I enjoy going beyond just making something “work” — I like understanding h
     <td align="center"> 
       <img src="https://skillicons.dev/icons?i=obsidian" width="70" /> 
     </td>
+    <td align="center"> 
+      <img src="https://skillicons.dev/icons?i=C++" width="70" /> 
+    </td>
   </tr>
 </table> 
 
