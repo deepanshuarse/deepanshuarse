@@ -11,10 +11,15 @@ I enjoy going beyond just making something “work” — I like understanding h
 
 
 ## 🧠 My Focus Areas
-- Web Development • Programming • Problem Solving • Building Projects • Learning & Experimentation
+- Web Development • Programming • Problem Solving • Building Projects • Learning & Experimentation\
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
+</p>
 
 ## Skills & Stacks
-
 <table>
   <tr>
     <td align="center">
