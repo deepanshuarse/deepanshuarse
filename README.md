@@ -15,8 +15,6 @@ I enjoy going beyond just making something “work” — I like understanding h
 
 ## Skills & Stacks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepanshuarse&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
 <table>
   <tr>
     <td align="center">
