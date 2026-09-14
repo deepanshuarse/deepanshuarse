@@ -16,7 +16,7 @@ I enjoy going beyond just making something “work” — I like understanding h
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshuarse&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
+  <img src="https://ghchart.rshah.org/8A2BE2/deepanshuarse" alt="Deepanshu's github contribution chart" />
 </p>
 
 ## Skills & Stacks
