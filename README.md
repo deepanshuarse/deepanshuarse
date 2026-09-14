@@ -13,6 +13,12 @@ I enjoy going beyond just making something “work” — I like understanding h
 ## 🧠 My Focus Areas
 - Web Development • Programming • Problem Solving • Building Projects • Learning & Experimentation\
 
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshuarse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=E23636&icon_color=E23636&border_color=E23636" height="180" alt="stats graph" />
+</p>
+
 
 ## Skills & Stacks
 <table>
