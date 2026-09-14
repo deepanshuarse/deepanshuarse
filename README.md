@@ -15,8 +15,7 @@ I enjoy going beyond just making something “work” — I like understanding h
 
 ## Skills & Stacks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshuarse&show_icons=true&theme=radical&hide_border=true&background=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&ring_color=58A6FF" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepanshuarse&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 <table>
   <tr>
